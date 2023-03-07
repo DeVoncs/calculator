@@ -15,3 +15,6 @@ elif op == "*":
 elif op == "/":
     print("You select division: ")
     print(num1 / num2)
+elif op == "^":
+    print("You select involution:  ")
+    print(num1 ** num2)
